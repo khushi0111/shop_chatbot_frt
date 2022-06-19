@@ -9,7 +9,7 @@ Usually we don't find an enquiry system or do not have any customer support of t
 
 
 Suggested Solution: 
-Shop chatbot is an enquiry system based chatbot which provides customer support and will address their queries like repairing issues, exchange scope, etc. It will also provide an updated list of items available with their updated price in the shop to help the customers in checking the availability of the needed items at that very day in order to save their time.
+Shop chatbot is an enquiry system based chatbot which provides customer support and will address their queries like repairing issues, exchange scope, etc. It will also provide an updated list of items available with their updated price in the shop to help the customers in checking the availability of the needed items at that very day in order to save their time. (Note: This shop chatbot is an hardware shop chatbot example and can be used for any shop.)
 
 
 
